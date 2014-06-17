@@ -56,6 +56,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
 		<Item Name="Write calibration curves to instruments Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Write calibration curves to instruments Msg/Write calibration curves to instruments Msg.lvclass"/>
+		<Item Name="Read All Sensor Data Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Read All Sensor Data Msg/Read All Sensor Data Msg.lvclass"/>
 	</Item>
 	<Item Name="LS218.lvclass" Type="LVClass" URL="../LS218/LS218.lvclass"/>
 	<Item Name="218_Manual.pdf" Type="Document" URL="../218_Manual.pdf"/>
