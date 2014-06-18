@@ -134,6 +134,158 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="myLS218_S0" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="myLS218_S1" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="myLS218_S2" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="myLS218_S3" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="myLS218_S4" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="myLS218_S5" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="myLS218_S6" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="myLS218_S7" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Channel status:
+Bit 0: Enabled
+Bit 1: reserved
+Bit 2: reserved
+Bit 3: reserved
+Bit 4: Beeper
+Bit 5: Lo alarm
+Bit 6: Hi alarm
+Bit 7: In alarm</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">True</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"-!A!!!!!!"!!N!!1!%37ZU/!!!!1!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="myLS218_SelftestResultCode" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
