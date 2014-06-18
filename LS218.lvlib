@@ -57,10 +57,14 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="Messages" Type="Folder">
 		<Item Name="Write calibration curves to instruments Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Write calibration curves to instruments Msg/Write calibration curves to instruments Msg.lvclass"/>
 		<Item Name="Read All Sensor Data Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Read All Sensor Data Msg/Read All Sensor Data Msg.lvclass"/>
+		<Item Name="Log Data Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Log Data Msg/Log Data Msg.lvclass"/>
+		<Item Name="Reset Alarms Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Reset Alarms Msg/Reset Alarms Msg.lvclass"/>
+		<Item Name="Reset Min-Max Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Reset Min-Max Msg/Reset Min-Max Msg.lvclass"/>
 	</Item>
 	<Item Name="LS218.lvclass" Type="LVClass" URL="../LS218/LS218.lvclass"/>
 	<Item Name="218_Manual.pdf" Type="Document" URL="../218_Manual.pdf"/>
 	<Item Name="X42700.pdf" Type="Document" URL="../X42700.pdf"/>
 	<Item Name="X42700.txt" Type="Document" URL="../X42700.txt"/>
 	<Item Name="LS218.ini" Type="Document" URL="../LS218.ini"/>
+	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 </Library>
