@@ -23,6 +23,8 @@ You can use this package as GIT Submodule.
 External Dependencies
 =================================
 - CSPP_DeviceBase: http://github.com/HB-GSI/CSPP_Core
+- LS218 instruemnt driver: http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=1171
+  tested with 042109|Model:218S|S/N:21SAH8.
 
 Getting started:
 =================================

@@ -69,4 +69,5 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="X42700.txt" Type="Document" URL="../X42700.txt"/>
 	<Item Name="LS218.ini" Type="Document" URL="../LS218.ini"/>
 	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+	<Item Name="README.md" Type="Document" URL="../README.md"/>
 </Library>
