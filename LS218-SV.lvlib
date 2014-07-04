@@ -111,7 +111,7 @@
 		<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myLS218_Relay" Type="Variable">
-		<Property Name="Description:Description" Type="Str">Temperature /K</Property>
+		<Property Name="Description:Description" Type="Str">Relay status</Property>
 		<Property Name="featurePacks" Type="Str">Description,Network</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:SingleWriter" Type="Str">True</Property>
