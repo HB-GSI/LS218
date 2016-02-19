@@ -55,14 +55,16 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
-		<Item Name="Action" Type="Folder"/>
-		<Item Name="Write calibration curves to instruments Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Write calibration curves to instruments Msg/Write calibration curves to instruments Msg.lvclass"/>
-		<Item Name="Configure Alarms Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Configure Alarms Msg/Configure Alarms Msg.lvclass"/>
-		<Item Name="Configure Relays Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Configure Relays Msg/Configure Relays Msg.lvclass"/>
-		<Item Name="Log Data Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Log Data Msg/Log Data Msg.lvclass"/>
-		<Item Name="Reset Alarms Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Reset Alarms Msg/Reset Alarms Msg.lvclass"/>
-		<Item Name="Reset Min-Max Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Reset Min-Max Msg/Reset Min-Max Msg.lvclass"/>
-		<Item Name="Read All Sensor Data Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Read All Sensor Data Msg/Read All Sensor Data Msg.lvclass"/>
+		<Item Name="Action" Type="Folder">
+			<Item Name="Configure Alarms Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Configure Alarms Msg/Configure Alarms Msg.lvclass"/>
+			<Item Name="Configure Relays Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Configure Relays Msg/Configure Relays Msg.lvclass"/>
+			<Item Name="Log Data Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Log Data Msg/Log Data Msg.lvclass"/>
+			<Item Name="Reset Alarms Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Reset Alarms Msg/Reset Alarms Msg.lvclass"/>
+			<Item Name="Reset Min-Max Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Reset Min-Max Msg/Reset Min-Max Msg.lvclass"/>
+			<Item Name="Read All Sensor Data Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Read All Sensor Data Msg/Read All Sensor Data Msg.lvclass"/>
+			<Item Name="Write Single Calibration Curve to Instrument Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Write Single Calibration Curve to Instrument Msg/Write Single Calibration Curve to Instrument Msg.lvclass"/>
+			<Item Name="Write calibration curves to instruments Msg.lvclass" Type="LVClass" URL="../LS218 Messages/Write calibration curves to instruments Msg/Write calibration curves to instruments Msg.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="LS218.lvclass" Type="LVClass" URL="../LS218/LS218.lvclass"/>
 	<Item Name="218_Manual.pdf" Type="Document" URL="../218_Manual.pdf"/>
