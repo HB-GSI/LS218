@@ -1,8 +1,8 @@
 Name: CX-1050-CU-1.4L
 Serial number: X42700
-Format: 4             ; Log Ohms/Kelvin
+Format: 4             ; 2:Volt/Kelvin 3:Ohms/Kelvin 4:Log Ohms/Kelvin
 Limit: 325.0
-Coefficient: 1        ; Negative
+Coefficient: 1        ; 1:Negative 2:Positiv
 Point 1: 1.67582,325.0
 Point 2: 1.68234,319.0
 Point 3: 1.68846,313.5
